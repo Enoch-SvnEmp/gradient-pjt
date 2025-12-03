@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background: linear-gradient(to right, blue, red);
+    color: rgba(252, 251, 251, 1);
+}
+h1{
+    text-transform: uppercase;
+}
+
+.content{
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+    margin-top: 10em; 
+}
